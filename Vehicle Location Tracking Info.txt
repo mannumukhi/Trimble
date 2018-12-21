@@ -1,0 +1,11 @@
+**************************
+https://support.emnify.com/hc/en-us/articles/115002960005-Programming-APN-Settings-into-a-GSM-Module-via-AT-command
+**************************
+https://seeeddoc.github.io/Mini_GSM-GPRS_Plus_GPS_Breakout-SIM808/
+**************************
+https://www.ostechnix.com/get-geolocation-commandline-linux/
+**************************
+https://stackoverflow.com/questions/28387230/use-gpsd-or-cgps-to-return-latitude-and-longitude-then-quit
+**************************
+http://ozzmaker.com/take-long-get-gps-fix/
+**************************
